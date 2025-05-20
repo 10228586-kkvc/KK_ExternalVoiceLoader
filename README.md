@@ -3,6 +3,8 @@
 ** 概要 **
 - コイカツ！のキャラスタジオのボイスに任意の音声データを追加する。
 
+![コイカツ！のキャラスタジオのボイスに任意の音声データを追加する。](https://github.com/user-attachments/assets/ad7565d3-6bad-4d4d-b05b-489bc206bffb)
+
 ** インストール **
 - コイカツ！インストールフォルダにBepInExとmodsとUserDataをコピーしてください。
 
@@ -209,6 +211,7 @@
 
 ** 関連情報 **
 - [TimelineVoiceControl(Rikki-Koi-Plugins)](https://github.com/RikkiBalboa/Rikki-Koi-Plugins)
+![TimelineVoiceControlとの併用も可能](https://github.com/user-attachments/assets/0acc8dea-d020-4275-9afa-03edc2c27250)
 
 - [Timelineで音声を使う](https://www.youtube.com/watch?v=Aw6TAnGvwCw)
 
