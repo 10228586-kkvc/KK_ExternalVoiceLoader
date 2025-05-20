@@ -22,8 +22,8 @@
 > csvの一行目は空ける、二行目はカラムタイトル、三行目から登録内容
 
 ** カスタムボイスリスト **
-[manifest.xml](/manifest.xml) # マニフェストファイル(zipmodに必須)
-[abdata/](/abdata)
+- [manifest.xml](/manifest.xml) # マニフェストファイル(zipmodに必須)
+- [abdata/](/abdata)
   - [studio/](/abdata/studio)
       - [info/](/abdata/studio/info)
           - [KK_KKS_custom-voice-list-1.0.0/](/abdata/studio/info/KK_KKS_custom-voice-list-1.0.0)
@@ -118,8 +118,7 @@
 
 ** サンプルボイスファイル **
 > サンプルとしてタイトルコールを格納しています。
-```
-UserData/
+- UserData/
   - voice/
       - titlecall/
           - original/
@@ -209,10 +208,10 @@ UserData/
               - sys_call00_80_002.wav     # コイカツサンシャイン(c08 純真無垢)
 
 ** 関連情報 **
-- TimelineVoiceControl(Rikki-Koi-Plugins)[[Download>https://github.com/RikkiBalboa/Rikki-Koi-Plugins]]
+- [TimelineVoiceControl(Rikki-Koi-Plugins)](https://github.com/RikkiBalboa/Rikki-Koi-Plugins)
 
-- Timelineで音声を使う[[チュートリアル>https://www.youtube.com/watch?v=Aw6TAnGvwCw]]
+- [Timelineで音声を使う](https://www.youtube.com/watch?v=Aw6TAnGvwCw)
 
-- コイカツ本編セリフ一覧[[kk-studio-add-list>https://github.com/10228586-kkvc/kk-studio-add-list]]
+- [コイカツ本編セリフ一覧](https://github.com/10228586-kkvc/kk-studio-add-list)
 
-- 音声MODについて[[コイカツ！MODスレ避難所（音声MOD等）>https://jbbs.shitaraba.net/game/61301/]]
+- [コイカツ！MODスレ避難所（音声MOD等）](https://jbbs.shitaraba.net/game/61301/)
