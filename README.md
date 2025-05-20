@@ -22,6 +22,7 @@
 > csvの一行目は空ける、二行目はカラムタイトル、三行目から登録内容
 
 ** カスタムボイスリスト **
+```
 [manifest.xml](/manifest.xml) # マニフェストファイル(zipmodに必須)
 [abdata/](/abdata)
   └─ [studio/](/abdata/studio)
@@ -115,9 +116,11 @@
               ├─ [Voice_41_99_00.csv](/abdata/studio/info/KK_KKS_custom-voice-list-1.0.0/Voice_41_99_00.csv) # カスタムボイスリスト(c41 ボクっ娘)
               ├─ [Voice_42_99_00.csv](/abdata/studio/info/KK_KKS_custom-voice-list-1.0.0/Voice_42_99_00.csv) # カスタムボイスリスト(c42 天真爛漫)
               └─ [Voice_43_99_00.csv](/abdata/studio/info/KK_KKS_custom-voice-list-1.0.0/Voice_43_99_00.csv) # カスタムボイスリスト(c43 ノリノリ)
+```
 
 ** サンプルボイスファイル **
 > サンプルとしてタイトルコールを格納しています。
+```
 UserData/
   └─ voice/
       └─ titlecall/
@@ -206,6 +209,7 @@ UserData/
               ├─ sys_call00_42_002.wav     # コイカツサンシャイン(c42 天真爛漫)
               ├─ sys_call00_43_002.wav     # コイカツサンシャイン(c43 ノリノリ)
               └─ sys_call00_80_002.wav     # コイカツサンシャイン(c08 純真無垢)
+```
 
 ** 関連情報 **
 - TimelineVoiceControl(Rikki-Koi-Plugins)[[Download>https://github.com/RikkiBalboa/Rikki-Koi-Plugins]]
